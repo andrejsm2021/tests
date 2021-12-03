@@ -1,6 +1,8 @@
 .kaste {
     {
-    margin-top: 30%;
-    background: gray;
-    
+    border-style: dotted;
+  border-color: blue;
+  background-color: lightblue;
+  padding: 10px 10px 10px 10px;
+  margin: 50px 20px 50px 20px;
 }
